@@ -35,3 +35,7 @@ Any other useful things for people to go and check out...
 ### Masks
 
 * [Please join me in wearing a mask](https://medium.com/@thejanellemj/please-join-me-in-wearing-a-mask-71e0e3f4fe4a)
+
+>A study from City University of Hong Kong found that the efficacy of a mask made at home out of two pieces of paper towel + a tissue “…were proven to have achieved 80 to 90 per cent of the function of regular surgical masks in terms of their filtration of aerosol and droplets.
+
+^ Needs professional substantiation
