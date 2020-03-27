@@ -29,3 +29,9 @@ Any other useful things for people to go and check out...
  * [Covid-19 UK collaboration slack](https://covid-19volunteersuk.slack.com/join/shared_invite/zt-czz3p6vp-6zyuIcrbZBIJw1LdiTbffw)
 
  * [Helpful Engineering collaboration slack](https://join.slack.com/t/helpfulengineering/shared_invite/zt-d6ytoynb-_tJjyC7oEd4fT8L0I8ug8Q)
+
+## References
+
+### Masks
+
+* [Please join me in wearing a mask](https://medium.com/@thejanellemj/please-join-me-in-wearing-a-mask-71e0e3f4fe4a)
