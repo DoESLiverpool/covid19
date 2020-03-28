@@ -8,7 +8,9 @@ Lots of makers are looking to help across the world, and that's where we're gett
 
 That said, we know lots of other makers across the country, so can connect people up if you need it.  And here are some links to other initiatives to check out:
 
-  * [CoVid19 Volunteers Slack](https://covid-19volunteersuk.slack.com) is gaining a lot of traction. You can join the north-west-england group with the invitation [here](https://join.slack.com/share/I010P6XJUAD/baOoy2VWZjrnHGeAeDYJ58hX/enQtMTAyMzIzNTY0MDM1My01Y2ZjYTljYjNmZGY4OTA4MDdmZDUyNjFiYzYxMjRkY2Y1NGFjYjEwMjc5NzJlMjJmOTU2YjQ3ZjA5MTVmNmI5)
+  * [CoVid19 Volunteers Slack - UK focussed](https://covid-19volunteersuk.slack.com) is gaining a lot of traction. You can join the north-west-england group with the invitation [here](https://join.slack.com/share/I010P6XJUAD/baOoy2VWZjrnHGeAeDYJ58hX/enQtMTAyMzIzNTY0MDM1My01Y2ZjYTljYjNmZGY4OTA4MDdmZDUyNjFiYzYxMjRkY2Y1NGFjYjEwMjc5NzJlMjJmOTU2YjQ3ZjA5MTVmNmI5)
+   * [Helpful Engineering collaboration slack - more international](https://helpfulengineering.slack.com). You can join [here](https://join.slack.com/t/helpfulengineering/shared_invite/zt-d6ytoynb-_tJjyC7oEd4fT8L0I8ug8Q)
+
   * [https://twitter.com/DavidNSims/status/1242166767008579587](https://twitter.com/DavidNSims/status/1242166767008579587)
   * TODO - Add any links to other people running at this
 
@@ -27,9 +29,6 @@ If all this talk of issues, etc. is confusing, our general ["how to help at DoES
 
 Any other useful things for people to go and check out...
 
- * [Covid-19 UK collaboration slack](https://covid-19volunteersuk.slack.com/join/shared_invite/zt-czz3p6vp-6zyuIcrbZBIJw1LdiTbffw)
-
- * [Helpful Engineering collaboration slack](https://join.slack.com/t/helpfulengineering/shared_invite/zt-d6ytoynb-_tJjyC7oEd4fT8L0I8ug8Q)
  * [List of links to visor designs](https://blog.adafruit.com/2020/03/27/3d-printing-face-shields-and-you-can-too-via-joeltelling/)
 
 ## References
