@@ -10,6 +10,10 @@ https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2
 
 Despite the name this is RC3 - it does mention that RC1 and RC2 are still relevant, depending on requirements
 
+https://www.prusaprinters.org/prints/27267/files
+
+Stacked to print 4 at once
+
 # 3DVerkstan / Hospital Marañón
 
 These are similar - the Spanish one (used by Hospital Marañón in Madrid), is based on 3DVerkstan one and optimised for their requirements.
