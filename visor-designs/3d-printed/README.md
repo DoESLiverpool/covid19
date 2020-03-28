@@ -40,3 +40,7 @@ Recommended settings from Twitter:
 - Infill 20%, triangular
 - No support
 - Print Speed: Operator to decide
+
+## Liverpool Uni
+
+The folk at Liverpool Uni are also churning out visors.  The design they're using seems based on the Prusa, and there's a [copy of their design here](LiverpoolUni/).
