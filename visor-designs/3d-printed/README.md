@@ -25,7 +25,12 @@ These are similar - the Spanish one (used by Hospital Marañón in Madrid), is b
 
 ## 3DVerkstan
 
-https://www.youmagine.com/designs/protective-visor-by-3dverkstan/
+This is the design that Jo Hinchliffe and the folk in North Wales are printing.
+
+[Design files](https://www.youmagine.com/designs/protective-visor-by-3dverkstan/)
+[Github repo (mirroring the files above)](https://github.com/Cederb/Faceshield.nu)
+
+[Our local copy of the files](3DVerkstan) and we're using the [Visor_frame_EUROPE_80mm_4hole_v1.stl](3DVerkstan/Visor_frame_EUROPE_80mm_4hole_v1.stl) version.
 
 ## Hospital Marañón
 
