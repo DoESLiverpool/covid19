@@ -40,7 +40,7 @@ Any other useful things for people to go and check out...
      * BIZKAIA 5330
      * GIPUZKOA 3337
  
-    (Currently total of 477 printers
+    (Currently they have a total of 477 printers)
 
 ## References
 
