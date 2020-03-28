@@ -9,6 +9,9 @@ Lots of makers are looking to help across the world, and that's where we're gett
 That said, we know lots of other makers across the country, so can connect people up if you need it.  And here are some links to other initiatives to check out:
 
   * [CoVid19 Volunteers Slack - UK focussed](https://covid-19volunteersuk.slack.com) is gaining a lot of traction. You can join with the invitation [here](https://join.slack.com/t/covid-19volunteersuk/shared_invite/zt-czz3p6vp-6zyuIcrbZBIJw1LdiTbffw5). Then browse for the #znorthwestuk channel
+  * If you don't use Slack there is a Riot channel to this discussion at #covid19-nwuk:1312.media
+  * Or you can just use a web browser from here [https://riot.im/app/#/room/#covid19-nwuk:1312.media](https://riot.im/app/#/room/#covid19-nwuk:1312.media)
+  
    * [Helpful Engineering collaboration slack - more international](https://helpfulengineering.slack.com). You can join [here](https://join.slack.com/t/helpfulengineering/shared_invite/zt-d6ytoynb-_tJjyC7oEd4fT8L0I8ug8Q)
 
   * [https://twitter.com/DavidNSims/status/1242166767008579587](https://twitter.com/DavidNSims/status/1242166767008579587)
