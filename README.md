@@ -34,11 +34,11 @@ Any other useful things for people to go and check out...
 
  * [List of links to visor designs](https://blog.adafruit.com/2020/03/27/3d-printing-face-shields-and-you-can-too-via-joeltelling/)
  * [Link to some Euskadi Makers Stats](https://covideuskadi.net/hitos/)
- Here's the number of visors they'd delivered by 27/03/2020 for the 3 areas they cover. Could be of interest to see how that  increasees:
+  Here's the number of visors they'd delivered by 27/03/2020 for the 3 areas they cover. Could be of interest to see how that  increasees:
  
- * ARABA 992
- * BIZKAIA 5330
- * GIPUZKOA 3337
+  * ARABA 992
+  * BIZKAIA 5330
+  * GIPUZKOA 3337
  
  Currently total of 477 printers
 
