@@ -8,11 +8,16 @@ So far we've looked at the following:
 
 https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2 
 
-Despite the name this is RC3 - it does mention that RC1 and RC2 are still relevant, depending on requirements
+(Despite the name this is RC3 - it does mention that RC1 and RC2 are still relevant, depending on requirements)
+
+RC1 /RC2 stacked to print 4 at once:
 
 https://www.prusaprinters.org/prints/27267/files
 
-Stacked to print 4 at once
+RC3 with top cover:
+
+https://www.prusaprinters.org/prints/27166-rc3-with-top-cover-and-last-resort-shield-idea-usi/files
+
 
 # 3DVerkstan / Hospital Marañón
 
