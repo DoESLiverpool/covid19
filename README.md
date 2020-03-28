@@ -17,6 +17,10 @@ That said, we know lots of other makers across the country, so can connect peopl
   * [https://twitter.com/DavidNSims/status/1242166767008579587](https://twitter.com/DavidNSims/status/1242166767008579587)
   * TODO - Add any links to other people running at this
 
+## NHS Advice on PPE
+
+<img src="https://user-images.githubusercontent.com/1537834/77834073-c0351400-7139-11ea-9014-1614a5902976.png" width="500" >
+
 ## Current Work
 
   * Mostly we're looking at making [face shields/visors to help with the PPE shortage for health professionals](FaceShield.md)
