@@ -29,5 +29,5 @@ To view this table properly I had to install [wide github](https://chrome.google
 
 | Model        | Variant           | Revision  | Photo | Video | Design Files | BOM | Unit Cost | Build time | Build difficulty | Medical sign-offs | Comments |
 | -----        | -------           | --------  | ----- | ----- | ------------ | --- | --------- | ---------- | ----------------- | ----------------- | -------- |
-| HospitalMarañon3D | Base | Mar 23, 2020  |  |  | ------------ | https://twitter.com/3d_maranon/status/1242177410759524355?s=20 | ? | ? | ? | ? | N/A |
+| HospitalMarañon3D | Base | Mar 23, 2020  | ![HospitalMarañon3D](https://i.ibb.co/fnq61r6/image.png)  | [here](https://www.youtube.com/watch?v=WjN5fSOK3HE) | [here](https://twitter.com/3d_maranon/status/1242177410759524355?s=20) | Filament + Visor [TBD] | 25p + visor | 80 initially. Maybe 20? | Easy | ? | ? | N/A |
 
