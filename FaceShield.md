@@ -25,6 +25,8 @@ In the mean time, check out [this Twitter thread of our initial prototyping](htt
 
 ## Capturing relevant information here on designs we've tried
 
+To view this table properly I had to install [wide github](https://chrome.google.com/webstore/detail/wide-github/kaalofacklcidaampbokdplbklpeldpj?hl=en) to Chrome.
+
 | Model        | Variant           | Revision  | Photo | Video | Design Files | BOM | Unit Cost | Build time | Build difficulty | Medical sign-offs | Comments |
 | -----        | -------           | --------  | ----- | ----- | ------------ | --- | --------- | ---------- | ----------------- | ----------------- | -------- |
 | HospitalMarañon3D | Base | Mar 23, 2020  |  |  | ------------ | https://twitter.com/3d_maranon/status/1242177410759524355?s=20 | ? | ? | ? | ? | N/A |
