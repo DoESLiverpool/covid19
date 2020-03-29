@@ -27,7 +27,14 @@ In the mean time, check out [this Twitter thread of our initial prototyping](htt
 
 To view this table properly I had to install [wide github](https://chrome.google.com/webstore/detail/wide-github/kaalofacklcidaampbokdplbklpeldpj?hl=en) to Chrome.
 
+### 3D Printed
+
 | Model        | Variant           | Revision  | Photo | Video | Design Files | BOM | Unit Cost | Build time | Build difficulty | Medical sign-offs | Comments |
 | -----        | -------           | --------  | ----- | ----- | ------------ | --- | --------- | ---------- | ----------------- | ----------------- | -------- |
-| HospitalMarañon3D | Base | Mar 23, 2020  | ![HospitalMarañon3D](https://i.ibb.co/fnq61r6/image.png)  | [here](https://www.youtube.com/watch?v=WjN5fSOK3HE) | [here](https://twitter.com/3d_maranon/status/1242177410759524355?s=20) | Filament + Visor [TBD] | 25p + visor | 80 initially. Maybe 20? | Easy | Unknown | |
+| HospitalMarañon3D | Base | Mar 23, 2020  | ![HospitalMarañon3D](https://i.ibb.co/fnq61r6/image.png)  | [here](https://www.youtube.com/watch?v=WjN5fSOK3HE) | [here](https://twitter.com/3d_maranon/status/1242177410759524355?s=20) | Filament + Visor [TBD] | 25p + visor | 80 mins initially. Maybe 20? | Easy | Unknown | |
 
+## Laser Cut
+
+| Model        | Variant           | Revision  | Photo | Video | Design Files | BOM | Unit Cost | Build time | Build difficulty | Medical sign-offs | Comments |
+| -----        | -------           | --------  | ----- | ----- | ------------ | --- | --------- | ---------- | ----------------- | ----------------- | -------- |
+| Georgia Tech | Base | Printed Mar 25, 2020  | ![GeorgiaTech](https://i.ibb.co/1dqNyqc/image.png)  | [here](https://www.youtube.com/watch?v=i4zo93ani40) | [here](https://pwp.gatech.edu/rapid-response/face-shields/) | Acrylic sheet + Visor [TBD] | £1.50 + visor | 3 mins | Easy | Unknown | |
