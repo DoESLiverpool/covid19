@@ -19,12 +19,6 @@ We have brief contact times with patients & get through lots. Other areas e.g. I
 
 ## Designs Evaluated
 
-TODO Fill this in with proper links, etc.
-
-In the mean time, check out [this Twitter thread of our initial prototyping](https://twitter.com/amcewen/status/1242826238630248449) and [the most recent videos on our YouTube channel](https://www.youtube.com/user/DoESLiverpool)
-
-## Capturing relevant information here on designs we've tried
-
 To view this table properly I had to install [wide github](https://chrome.google.com/webstore/detail/wide-github/kaalofacklcidaampbokdplbklpeldpj?hl=en) to Chrome.
 
 ### 3D Printed
