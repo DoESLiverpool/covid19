@@ -22,3 +22,10 @@ We have brief contact times with patients & get through lots. Other areas e.g. I
 TODO Fill this in with proper links, etc.
 
 In the mean time, check out [this Twitter thread of our initial prototyping](https://twitter.com/amcewen/status/1242826238630248449) and [the most recent videos on our YouTube channel](https://www.youtube.com/user/DoESLiverpool)
+
+## Capturing relevant information here on designs we've tried
+
+| Model        | Variant           | Revision  | Photo | Video | Design Files | BOM | Unit Cost | Build time | Build difficulty | Medical sign-offs | Comments |
+| -----        | -------           | --------  | ----- | ----- | ------------ | --- | --------- | ---------- | ----------------- | ----------------- | -------- |
+| HospitalMarañon3D | Base | Mar 23, 2020  |  |  | ------------ | https://twitter.com/3d_maranon/status/1242177410759524355?s=20 | ? | ? | ? | ? | N/A |
+
