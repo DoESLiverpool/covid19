@@ -27,10 +27,14 @@ To view this table properly I had to install [wide github](https://chrome.google
 | -----        | -------           | --------  | ----- | ----- | ------------ | --- | --------- | ---------- | ----------------- | ----------------- | -------- |
 | HospitalMarañon3D | Base | Mar 23, 2020  | <img src="https://i.ibb.co/fnq61r6/image.png" width="200"> | [here](https://www.youtube.com/watch?v=WjN5fSOK3HE) | [here](https://twitter.com/3d_maranon/status/1242177410759524355?s=20) | Filament + Visor [TBD] | 25p + visor | 80 mins initially. Maybe 20? | Easy | Unknown | |
 
-## Laser Cut
+### Laser Cut
 
 | Model        | Variant           | Revision  | Photo | Video | Design Files | BOM | Unit Cost | Build time | Build difficulty | Medical sign-offs | Comments |
 | -----        | -------           | --------  | ----- | ----- | ------------ | --- | --------- | ---------- | ----------------- | ----------------- | -------- |
 | Georgia Tech | Base | Printed Mar 25, 2020  | <img src="https://i.ibb.co/1dqNyqc/image.png" width="200"> | [here](https://www.youtube.com/watch?v=i4zo93ani40) | [here](https://pwp.gatech.edu/rapid-response/face-shields/) | Acrylic sheet + Visor [TBD] | £1.50 + visor | 3 mins | Easy | Unknown | |
 | DoES Shield  | Base | 0.1  | <img src="https://i.ibb.co/YZZvXcq/image.png" width="200"> | [here](https://www.youtube.com/watch?v=2b9gzPKdUrw) | [here](https://github.com/DoESLiverpool/covid19/blob/master/visor-designs/laser-cut/visor-pp.dxf) | Polypropylene sheet + Visor [TBD] | TBD + visor | 2 mins | Easy | None | |
 
+### No cut Foam
+
+| Model        | Variant           | Revision  | Photo | Video | Design Files | BOM | Unit Cost | Build time | Build difficulty | Medical sign-offs | Comments |
+| -----        | -------           | --------  | ----- | ----- | ------------ | --- | --------- | ---------- | ----------------- | ----------------- | -------- |
