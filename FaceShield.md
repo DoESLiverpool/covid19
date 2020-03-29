@@ -38,3 +38,5 @@ To view this table properly I had to install [wide github](https://chrome.google
 | Model        | Variant           | Revision  | Photo | Video | Design Files | BOM | Unit Cost | Build time | Build difficulty | Medical sign-offs | Comments |
 | -----        | -------           | --------  | ----- | ----- | ------------ | --- | --------- | ---------- | ----------------- | ----------------- | -------- |
 | Georgia Tech | Base | Printed Mar 25, 2020  | <img src="https://i.ibb.co/1dqNyqc/image.png" width="200"> | [here](https://www.youtube.com/watch?v=i4zo93ani40) | [here](https://pwp.gatech.edu/rapid-response/face-shields/) | Acrylic sheet + Visor [TBD] | £1.50 + visor | 3 mins | Easy | Unknown | |
+| DoES Shield  | Base | 0.1  | <img src="https://i.ibb.co/YZZvXcq/image.png" width="200"> | [here](https://www.youtube.com/watch?v=2b9gzPKdUrw) | [here](https://github.com/DoESLiverpool/covid19/blob/master/visor-designs/laser-cut/visor-pp.dxf) | Polypropylene sheet + Visor [TBD] | TBD + visor | 2 mins | Easy | None | |
+
