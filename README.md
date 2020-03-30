@@ -46,6 +46,8 @@ Any other useful things for people to go and check out...
  
     (Currently they have a total of 477 printers)
 
+ * Inventables' [Crisis (C) Rating System for Personal Protective Gear](http://blog.inventables.com/2020/03/crisis-c-rating-system-for-personal.html) is a nice way of framing the levels of "authorised" for what's being produced
+
 ## References 
 
 ## TBD
