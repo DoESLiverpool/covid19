@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/26458780/78045785-43d74680-736e-11ea-89d8-9cda9027d8e4.png" height="230" >
+
 # DoES Liverpool's COVID-19 Help
 
 A location for our face visor (and other?) help during the COVID-19 pandemic
