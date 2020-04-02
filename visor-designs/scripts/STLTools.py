@@ -89,7 +89,7 @@ class reader:
 
     def BinaryReadFacets(self, fl, fs = None):
         # 80 bytes of header
-        hdr = fl.read(80).decode("utf-8")
+        hdr = fl.read(80).decode("utf-16")
 
         # color information for magics stl files, look for "COLOR=" in header
         keyword = "COLOR="

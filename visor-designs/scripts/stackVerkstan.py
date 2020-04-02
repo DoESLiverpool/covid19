@@ -1,7 +1,5 @@
-import sys
-sys.path.append("../Prusa_stacks")
 from STLTools import reader, writer
-import math
+import os, math
 
 class Triangles:
     def __init__(self):
@@ -89,48 +87,52 @@ def closestSupport(pos, p):
 
 
 if __name__ == "__main__":
-    supportDistance = 6 # supports not closer than this
+    stlFile = "../3d-printed/3DVerkstan/Visor_frame_EUROPE_80mm_4hole_v1.stl" # this is the file we're stacking up
 
+    # the height of one headband: 5
+    height = 5
+
+    # the support height between items
+    supportHeight = 0.25
+    supportRad = 0.25
+
+    # number of additional head bands
+    nadd = 16
+
+    supportDistance = 6 # supports will not be closer to each other than this
 
     r = reader()
 
-    f = open("Visor_frame_EUROPE_80mm_4hole_v1.stl", "rb")
+    f = open(stlFile, "rb")
     triangles = Triangles()
     r.BinaryReadFacets(f, triangles)
     triangles.nfacets = r.nfacets
 
     # add supports
-    top = triangles.filterByZ(5, 5)
+    top = triangles.filterByZ(5, 5) # all triangles at height 5
+    top.sort()
+
+    # we want supports on centre of gravity at these triangles, (the toggles sticking out)
     top.insert(0, (78.9229, -35.0638, 5, 76.3902, -37.0232, 5, 78.8745, -38.0634, 5))
     top.insert(0, (-78.9229, -35.0638, 5, -76.3902, -37.0232, 5, -78.8745, -38.0634, 5))
     top.insert(0, (38.2391, 25.7711, 5, 41.3158, 29.2973, 5, 38.3621, 29.7728, 5))
     top.insert(0, (-38.2391, 25.7711, 5, -41.3158, 29.2973, 5, -38.3621, 29.7728, 5))
     supportPositions = []
     for s in top:
-        px = (s[0] + s[3] + s[6])/3.0
+        px = (s[0] + s[3] + s[6])/3.0 # centre of tria
         py = (s[1] + s[4] + s[7])/3.0
         pz = s[8]
         if closestSupport(supportPositions, (px, py, pz)) >= supportDistance:
-            supportpin = SupportPin(0.25, (px, py, pz), 0.25)
+            supportpin = SupportPin(supportHeight, (px, py, pz), supportRad)
             triangles.addTriangles(supportpin.facets)
             supportPositions.append((px, py, pz))
 
 
-    w = writer("with_support.stl")
-    w.write(triangles)
-
-    # the height of one headband: 5
-    height = 5
-    # the support in between
-    support = 0.25
-
-    # number of additional head bands
-    nadd = 16
-
     # copy headband nadd times
     for c in range(nadd-1):
-        triangles.filterIfInZRange((0, 0, (c+1) * (height + support)), (0, height + support), "all", True)
-    triangles.filterIfInZRange((0, 0, nadd * (height + support)), (0, height), "all", True)
+        triangles.filterIfInZRange((0, 0, (c+1) * (height + supportHeight)), (0, height + supportHeight), "all", True)
+    triangles.filterIfInZRange((0, 0, nadd * (height + supportHeight)), (0, height), "all", True)
 
-    w = writer("verkstan_%d.stl" % (nadd))
+    base, ext = os.path.split(stlFile)
+    w = writer(os.path.join(base, "verkstan_%d.stl" % (nadd)))
     w.write(triangles)
