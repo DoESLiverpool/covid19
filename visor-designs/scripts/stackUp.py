@@ -1,3 +1,4 @@
+import os
 from STLTools import reader, writer
 
 class Triangles:
@@ -41,9 +42,11 @@ class Triangles:
 
  
 if __name__ == "__main__":
+    stlFile = "../3d-printed/Prusa_Stacks/covid19_headband_quadro_rc31.stl"
     r = reader()
 
-    f = open("covid19_headband_quadro_rc31.stl", "rb")
+
+    f = open(stlFile, "rb")
     triangles = Triangles()
     r.BinaryReadFacets(f, triangles)
     triangles.nfacets = r.nfacets
@@ -63,5 +66,6 @@ if __name__ == "__main__":
     for c in range(nadd):
         triangles.filterIfInZRange((0, 0, (c+1) * (height + support)), (40.5, 60.51), True)
 
-    w = writer("covid19_headband_quadro_rc31_stack_%d.stl" % (4 + nadd))
+    base, ext = os.path.splitext(stlFile)
+    w = writer("%s_%d%s" % (base, 4 + nadd, ext))
     w.write(triangles)
