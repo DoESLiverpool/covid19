@@ -52,8 +52,8 @@ class reader:
                 fl = open(self.fn, "r")
                 self.isascii = self.IsAscii(fl)
                 fl.close()
-            except IOError,e:
-                print e
+            except IOError as e:
+                print(e)
                 pass
 
         self.little_endian = (struct.unpack("<f", struct.pack("@f", 140919.00))[0] == 140919.00)
@@ -89,7 +89,7 @@ class reader:
 
     def BinaryReadFacets(self, fl, fs = None):
         # 80 bytes of header
-        hdr = fl.read(80)
+        hdr = fl.read(80).decode("utf-8")
 
         # color information for magics stl files, look for "COLOR=" in header
         keyword = "COLOR="
@@ -121,16 +121,16 @@ class reader:
                 if not lrc:
                     break
                 rc = struct.unpack("<h", lrc)
-            except struct.error, e:
-                print "STLTools, BinaryReadFacets, error:", e
-                print "Read ", nfacets, "triangles; STL header gives: ", self.nfacets, " triangles"
+            except struct.error as e:
+                print("STLTools, BinaryReadFacets, error:", e)
+                print("Read ", nfacets, "triangles; STL header gives: ", self.nfacets, " triangles")
                 break
 
-            hascolor = rc[0] & 0000000000000001
+            hascolor = rc[0] & 1
             if hascolor:
-                r = rc[0] & 1111100000000000 >> 10
-                g = rc[0] & 0000011111000000 >> 5
-                b = rc[0] & 0000000000111110 >> 1
+                r = rc[0] & 63488 >> 10
+                g = rc[0] & 1984 >> 5
+                b = rc[0] & 62 >> 1
                 if (r, g, b) not in self.colors:
                     self.colors.append((r, g, b))
 
@@ -154,9 +154,9 @@ class reader:
                 nfacets += 1
 
         if not self.filtercolors and (self.nfacets != nfacets):
-            print "Warning: Number of facets according to header: %d, number of facets read: %d" % (self.nfacets, nfacets)
+            print("Warning: Number of facets according to header: %d, number of facets read: %d" % (self.nfacets, nfacets))
         if self.filtercolors:
-            print "Total number of facets: %d, number of facets read: %d" % (self.nfacets, nfacets)
+            print("Total number of facets: %d, number of facets read: %d" % (self.nfacets, nfacets))
         self.nfacets = nfacets
 
 
@@ -217,13 +217,13 @@ class writer(writerbase):
             self.fl = open(self.fn, "wb")
 
         nfacets = 0
-        for t in xrange(fc.nfacets):
+        for t in range(fc.nfacets):
             x0, y0, z0, x1, y1, z1, x2, y2, z2 = fc.GetFacet(t)
             if (TriangleNormal(x0, y0, z0, x1, y1, z1, x2, y2, z2) != None):
                 nfacets += 1
 
         self.WriteHeader(self.fl, nfacets)
-        for t in xrange(fc.nfacets):
+        for t in range(fc.nfacets):
             x0, y0, z0, x1, y1, z1, x2, y2, z2 = fc.GetFacet(t)
             self.WriteFacet(x0, y0, z0, x1, y1, z1, x2, y2, z2)
 
@@ -235,7 +235,7 @@ class writer(writerbase):
         if self.ascii:
             fl.write("solid\n")
         else:
-            str = "Stereolithography                                                               "
+            str = b"Stereolithography                                                               "
             assert(len(str) == 80)
             fl.write(str)
             fl.write(struct.pack("<i", nfacets))
@@ -266,7 +266,7 @@ class writer(writerbase):
             self.fl.write("outer loop\n vertex %f %f %f\n vertex %f %f %f\n vertex %f %f %f\nendloop\nendfacet\n" % 
                           (x0, y0, z0, x1, y1, z1, x2, y2, z2))
         else:
-            self.fl.write(struct.pack("<12f2c", n[0], n[1], n[2], x0, y0, z0, x1, y1, z1, x2, y2, z2, " ", " "))
+            self.fl.write(struct.pack("<12f2c", n[0], n[1], n[2], x0, y0, z0, x1, y1, z1, x2, y2, z2, b" ", b" "))
         
     def WriteFooter(self, fl):
         if self.ascii:
