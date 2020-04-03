@@ -11,7 +11,7 @@ A place for any design files suited for production with laser-cutters.
 
 Both main designs have two versions with Prusa and four hole punch spacings for the tabs that hold the face piece. 
 * The Prusa standard appears to be more widely used and replacement shields should be available in this format. 
-* The four punch makes it easier for us to produce face shields with current tools, and also means hospitals can make replacements with office stationary. Somke and Mirrors/Nottinghack have a process to produce the Prusa spacings from A4 sheets in this format using two hole punches. [https://community.andmirrors.co.uk/t/covid-19-laser-cut-face-shield/168](https://community.andmirrors.co.uk/t/covid-19-laser-cut-face-shield/168) This requires precut or uniform A4 sheets of material. 
+* The four punch makes it easier for us to produce face shields with current tools, and also means hospitals can make replacements with office stationary. Smoke and Mirrors/Nottinghack have a process to produce the Prusa spacings from A4 sheets in this format using two hole punches. [https://community.andmirrors.co.uk/t/covid-19-laser-cut-face-shield/168](https://community.andmirrors.co.uk/t/covid-19-laser-cut-face-shield/168) This requires precut or uniform A4 sheets of material. 
 
  * Prusa - spacing between holes 80mm , 60mm, 80mm
  * 4 punch - spacing between holes 80mm, 80mm, 80mm
