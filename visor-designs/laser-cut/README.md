@@ -8,6 +8,8 @@ A place for any design files suited for production with laser-cutters.
 
 * [hybrid_4holePunchSpacing.dxf](hybrid_4holePunchSpacing.dxf) - Hybrid adding the Covid 19 Facemask headstrap to the visor-pp design. This is the current prefered version as it doesn't require elastic.
 
+* [hybridV2_4holePunchSpacing.dxf](hybridV2_4holePunchSpacing.dxf) - Single piece version of the hybrid (~730mm) Tessellates when rotated 180deg so the cut path is significantly shorter for a batch.
+
 Both main designs have two versions with Prusa and four hole punch spacings for the tabs that hold the face piece. 
 * The Prusa standard (80mm, 60mm, 80mm) appears to be more widely used and replacement shields should be available in this format. 
 * The four punch (80mm, 80mm, 80mm) makes it easier for us to produce face shields with current tools, and also means hospitals can make replacements with office stationary. Smoke and Mirrors/Nottinghack have a process to produce the Prusa spacings from A4 sheets in this format using two hole punches. [https://community.andmirrors.co.uk/t/covid-19-laser-cut-face-shield/168](https://community.andmirrors.co.uk/t/covid-19-laser-cut-face-shield/168) This requires precut or uniform A4 sheets of material. 
