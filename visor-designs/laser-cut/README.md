@@ -18,4 +18,6 @@ Versions that combine the two original designs
 
 * [hybridV2_4holePunchSpacing.dxf](hybridV2_4holePunchSpacing.dxf) - Single piece version of the hybrid (~730mm) Tessellates when rotated 180deg so the cut path is significantly shorter for a batch.
 
+* [hybridV2x16_1100x650Sheet.dxf](hybridV2x16_1100x650Sheet.dxf) - A sheet layout for the V2 design based on 1100x650mm material, it yields 16 units per sheet. There is less waste than with V1 and because cut lines are shared it is much quicker to cut. Leaves an offcut of 350x650mm which is large enough for 4xV1 units. 
+
 
