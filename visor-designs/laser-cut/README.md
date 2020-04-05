@@ -14,10 +14,16 @@ Both main designs have two versions with Prusa and four hole punch spacings for 
 
 Versions that combine the two original designs
 
-* [hybrid_4holePunchSpacing.dxf](hybrid_4holePunchSpacing.dxf) - Hybrid adding the Covid 19 Facemask headstrap to the visor-pp design. This is the current prefered version as it doesn't require elastic.
+* Hybrid V1 **Current design
 
-* [hybridV2_4holePunchSpacing.dxf](hybridV2_4holePunchSpacing.dxf) - Single piece version of the hybrid (~730mm) Tessellates when rotated 180deg so the cut path is significantly shorter for a batch.
+[hybrid_4holePunchSpacing.dxf](hybrid_4holePunchSpacing.dxf) - Hybrid adding the Covid 19 Facemask headstrap to the visor-pp design. This is the current prefered version as it doesn't require elastic.
 
-* [hybridV2x16_1100x650Sheet.dxf](hybridV2x16_1100x650Sheet.dxf) - A sheet layout for the V2 design based on 1100x650mm material, it yields 16 units per sheet. There is less waste than with V1 and because cut lines are shared it is much quicker to cut. Leaves an offcut of 350x650mm which is large enough for 4xV1 units. 
+[hybridV1x16_1100x650Sheet.dxf](hybridV1x16_1100x650Sheet.dxf) - 1100x650mm sheet layout for this design, yields 16 units.
+
+* Hybrid V2 (dev)
+
+[hybridV2_4holePunchSpacing.dxf](hybridV2_4holePunchSpacing.dxf) - Single piece version of the hybrid (~730mm) Tessellates when rotated 180deg so the cut path is significantly shorter for a batch.
+
+[hybridV2x16_1100x650Sheet.dxf](hybridV2x16_1100x650Sheet.dxf) - A sheet layout for the V2 design based on 1100x650mm material, it yields 16 units per sheet. There is less waste than with V1 and because cut lines are shared it is much quicker to cut. Leaves an offcut of 350x650mm which is large enough for 4xV1 units. 
 
 
