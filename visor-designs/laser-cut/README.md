@@ -19,6 +19,7 @@ Versions that combine the two original designs
 [hybrid_4holePunchSpacing.dxf](hybrid_4holePunchSpacing.dxf) - Hybrid adding the Covid 19 Facemask headstrap to the visor-pp design. This is the current prefered version as it doesn't require elastic.
 
 [hybridV1x16_1100x650Sheet.dxf](hybridV1x16_1100x650Sheet.dxf) - 1100x650mm sheet layout for this design, yields 16 units.
+[hybridV1x20_1100x650Sheet.dxf](hybridV1x20_1100x650Sheet.dxf) - 1100x650mm sheet layout for this design, yields 20 units.
 
 * Hybrid V2 (dev)
 
