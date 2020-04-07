@@ -1,7 +1,8 @@
 Until we hear differently from frontline staff we will be producing this design
 
 * Single unit [hybrid_4holePunchSpacing.dxf](hybrid_4holePunchSpacing.dxf)
-* Sheet of 20 [hybridV1x20_1100x650Sheet.dxf](hybridV1x20_1100x650Sheet.dxf)
+* Sheet of 20 [hybridV1x20_1100x650Sheet.dxf](hybridV1x20_1100x650Sheet.dxf) 
+* New stock is 1020x720 use this sheet layout [hybridV1x20_1020x720Sheet.dxf](hybridV1x20_1020x720Sheet.dxf)
 
 If you would like to help with manufacture at DoES or for instructions to make using your own machine see [production.md](production.md)
 
