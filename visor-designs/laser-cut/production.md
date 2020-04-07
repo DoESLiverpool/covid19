@@ -16,7 +16,7 @@ If you are not a fob holder but can help speak to Jackie who can arrange a tempo
 
 To sign up block out the times you are able to offer and the task you will be coming in to help with.
 
-[https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/edit?usp=sharing](Production slots spreadsheet)
+[Production slots spreadsheet](https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/edit?usp=sharing)
 
 ** Please do not come to the space to help if you haven't booked a slot
 
