@@ -1,3 +1,13 @@
+Until we hear differently from frontline staff we will be producing this design
+
+* Single unit [hybrid_4holePunchSpacing.dxf](hybrid_4holePunchSpacing.dxf)
+* Sheet of 20 [hybridV1x20_1100x650Sheet.dxf](hybridV1x20_1100x650Sheet.dxf)
+
+If you would like to help with manufacture at DoES or for instructions to make using your own machine see [production.md](production.md)
+
+Further discussion and information for creating lasercut masks using the Nottinghack/Smoke and Mirrors/Kitronik desing can be found at [https://community.andmirrors.co.uk/t/covid-19-laser-cut-face-shield/168](https://community.andmirrors.co.uk/t/covid-19-laser-cut-face-shield/168)
+
+
 # Laser-cut Face Shield/Visor Design Files
 
 A place for any design files suited for production with laser-cutters.
