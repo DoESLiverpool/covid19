@@ -18,7 +18,7 @@ To sign up block out the times you are able to offer and the task you will be co
 
 [Production slots spreadsheet](https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/edit?usp=sharing)
 
-** Please do not come to the space to help if you haven't booked a slot
+**Please do not come to the space to help if you haven't booked a slot**
 
 
 # Roles
