@@ -15,7 +15,10 @@ Safety is the most important consideration and you should follow the guidance fr
 If you are not a fob holder but can help speak to Jackie who can arrange a temporary fob for you.. 
 
 To sign up block out the times you are able to offer and the task you will be coming in to help with.
-**Please do not come to the space to help if you haven't booked a slot
+
+[https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/edit?usp=sharing](Production slots spreadsheet)
+
+** Please do not come to the space to help if you haven't booked a slot
 
 
 # Roles
