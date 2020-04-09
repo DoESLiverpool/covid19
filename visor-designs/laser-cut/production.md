@@ -20,6 +20,13 @@ To sign up block out the times you are able to offer and the task you will be co
 
 **Please do not come to the space to help if you haven't booked a slot**
 
+# Tracking Time
+
+There's a team member worksheet here https://docs.google.com/spreadsheets/d/17ZI_iGuMHm6O9xH-shOg0gg1-48pZvZWUcObXX5arqY/edit#gid=0
+
+Make a copy of it and fill in your details in your copy. Then email a link to covid@doesliverpool.com
+
+Each time you are on shift enter your start time / end time and production (keep a tally as you go along). This will be used for invoicing and payment control later.
 
 # Roles
 
