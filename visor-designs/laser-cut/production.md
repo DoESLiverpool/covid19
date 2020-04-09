@@ -34,6 +34,14 @@ This results in print time for 18 units of circa 20 minutes including loading an
 
 To speed production remove the cut sheet and any parts left in the tray, then replace the new sheet, start cutting, and disconnect the parts from the previous sheet whilst cutting.
 
+After each sheet is cut add a tick to a tally chart. Easiest thing is to do it on the whiteboard as you'll see I have done (Alex)
+
+### Tricks and tips 
+
+- I have the blocks at the edge of the sheet to make it easy to slot the new sheet in and it'll be positioned right. I don't seem to need to have anything on top of the sheet for good cuts
+
+- If the cut isn't perfect it's better for somebody to spent more time disconnecting the piece than to slow down the machine as machine time is our limiting factor for production
+                
 Place all offcuts in the clear bags for future recycling
 
 After you have finished cutting clean the machine (instructions?)
