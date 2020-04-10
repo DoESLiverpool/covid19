@@ -32,7 +32,7 @@ Each time you are on shift enter your start time / end time and production (keep
 
 ## Laser cutting 
 
-The current design is saved to the desktop in ECP format as C:\Users\doesuser\DropBox\DoES-laser\covid\hybrid-18.ecp
+The current design is saved to the desktop in ECP format as C:\Users\doesuser\DropBox\DoES-laser\covid\hybrid-20_unified.ecp
 This file has all the cut settings just open it up and cut.
 
 Sometimes the laser settings change. They should be: Power 100 and Speed 100
