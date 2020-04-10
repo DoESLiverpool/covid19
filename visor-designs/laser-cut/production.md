@@ -37,7 +37,7 @@ This file has all the cut settings just open it up and cut.
 
 Sometimes the laser settings change. They should be: Power 100 and Speed 100
 
-This results in print time for 18 units of circa 20 minutes including loading and unloading.
+This results in print time for 20 units of circa 21 minutes excluding loading and unloading.
 
 To speed production remove the cut sheet and any parts left in the tray, then replace the new sheet, start cutting, and disconnect the parts from the previous sheet whilst cutting.
 
