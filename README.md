@@ -1,4 +1,4 @@
-If you are not self-isolating, then find out more about how you can [help with visor production at DoES Liverpool](https://github.com/DoESLiverpool/covid19/blob/master/visor-designs/laser-cut/production.md), then look for some open slots on the schedule and [add your name to the visor-making schedule](https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/) and let us know you're coming by [posting here](https://github.com/DoESLiverpool/covid19/issues/1). Please only visit the building by prior arrangement so we can keep each other as safe as possible.
+If you are not self-isolating, then find out more about how you can [help with visor production at DoES Liverpool](https://github.com/DoESLiverpool/covid19/blob/master/visor-designs/laser-cut/production.md), and [add your name to the visor-making schedule](https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/) and let us know you're coming by [posting here](https://github.com/DoESLiverpool/covid19/issues/1). Please only visit the building by prior arrangement so we can keep each other as safe as possible.
 
 <img src="https://user-images.githubusercontent.com/26458780/78045785-43d74680-736e-11ea-89d8-9cda9027d8e4.png" height="230" >
 
@@ -26,7 +26,7 @@ That said, we know lots of other makers across the country, so can connect peopl
 <img src="https://user-images.githubusercontent.com/1537834/77834073-c0351400-7139-11ea-9014-1614a5902976.png" width="500" >
 
 ## Current Work
-
+ 
   * Mostly we're looking at making [face shields/visors to help with the PPE shortage for health professionals](FaceShield.md)
   * There are some other [COVID-19-related projects over on the regular "somebody should" issue tracker](https://github.com/DoESLiverpool/somebody-should/labels/COVID-19)
 
