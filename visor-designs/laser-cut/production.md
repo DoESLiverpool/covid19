@@ -9,13 +9,14 @@ We are looking for help in the following areas:
 
 Especially if you have a temperature or a new persistent cough.  If that is the case you should fully self isolate as per government guidelines [(link)](https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-advice/) and inform us so that we can inform others working in the space, quarantine any stock you worked on and notify recipients if necessary.
 
+While making these masks is incredibly helpful to frontline staff we won’t be helping if we spread the infection.
 
 ## 🙏🏼 Please read this short guide carefully. Here’s what it contains: 
 
 * How we are preventing contamination
 * What to do when you arrive
-* What roles there are and how you can get stuck in 😊
-* Where to find us & how to get in touch 
+* What roles there are
+* Where to find us & how you can get stuck in 😊
 * How to book a slot 
 * How to track the time you have volunteered
 
@@ -42,7 +43,8 @@ L3 8HL
 ```
 
 ### Upon arrival: 
-1. Leave your bike and any bags and coats in the area by the safe in the Events room. 
+1. Leave your bike and any bags and coats in the area by the safe in the Events room.
+2. Check in online using the spreadsheet [here](https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/edit#gid=1319346095)
 2. Then wash your hands.
 3. You should keep a distance of at least `2m` between you and other users of the space.
 
@@ -61,7 +63,7 @@ There are three main parts to the manufacturing process:
 2. Cleaning headbands with IPA `(non-technical role)`
 3. Cutting face shields with scissors/hole punch  `(non-technical role)`
 
-## (1) Laser cutting headbands  
+### (1) Laser cutting headbands  
 
 `(technical role)`
 The current design is saved to the desktop in ECP format as `C:\Users\doesuser\DropBox\covid\hybrid-20_unified.ecp` – This file has all the cut settings, just open it up and cut.
@@ -88,7 +90,7 @@ If there are any problems with the laser-cutter or it stops cutting properly, [r
 
 * I have the blocks at the edge of the sheet to make it easy to slot the new sheet in and it'll be positioned right. I don't seem to need to have anything on top of the sheet for good cuts
 
-## (2) Cleaning the headband parts  
+### (2) Cleaning the headband parts  
 
 `(non-technical role)`
 This is done at the *Cleaning Station*, in the nook.
@@ -99,7 +101,7 @@ Collect them together in sets of 20 and place them into a plastic bag labelled w
 
 Stack on the table in the back office (Room 29).
 
-## (3) Cutting the clear plastic face shields  
+### (3) Cutting the clear plastic face shields  
 `(non-technical role)`
 
 The equipment and materials for this are arranged on the workshop benches.
@@ -117,3 +119,42 @@ Opposite the holes round off the corners with scissors.
 Pack in labelled bags with the date in quantities of 20 per bag.
 
 Once complete, stack bags on the table in the back office (Room 29).
+
+---
+
+## How to get involved
+
+Our address is
+```
+DoES Liverpool
+1st Floor, The Tapestry
+68-76 Kempston Street
+Liverpool 
+L3 8HL
+```
+
+In order to get involved, email [covid@doesliverpool.com](mailto:covid@doesliverpool.com) to arrange a suitable time for someone to show you the different tasks and areas where they are completed, and for Jackie to arrange a temporary access fob for you.
+
+If you are unable to travel or would prefer to work from home, please do still email as we may be able to find a task you can do from home!
+
+---
+
+## Booking a production slot
+
+Block out the times you intend to be here and the task you intend to help with on our spreadsheet here:
+
+[Production slots spreadsheet](https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/edit?usp=sharing)
+
+While we appreciate all help, it is important that we keep numbers in the space to a minimum, so **PLEASE DO NOT COME IF YOU HAVE NOT BOOKED A SLOT**. Additionally, we need to have people in whenever possible, so **IF YOU CAN NO LONGER COME PLEASE REMOVE YOUR NAME FROM THE SPREADSHEET**.
+
+---
+
+## Tracking time
+
+Each volunteer is responsible for tracking their own time.
+
+We’ve prepared a template worksheet to help you track your time: [https://docs.google.com/spreadsheets/d/17ZI_iGuMHm6O9xH-shOg0gg1-48pZvZWUcObXX5arqY/edit](https://docs.google.com/spreadsheets/d/17ZI_iGuMHm6O9xH-shOg0gg1-48pZvZWUcObXX5arqY/edit)
+
+Make a personal copy of the template worksheet, and then use that personal copy to track your time. Email a link to your personal worksheet to [covid@doesliverpool.com](covid@doesliverpool.com).
+
+Each time you are on shift, enter your start time / end time and number of items produced (keep a tally as you go along). We will use this worksheet for invoicing and payment control later, so it’s important you keep it up to date.
