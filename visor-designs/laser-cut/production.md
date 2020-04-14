@@ -10,7 +10,7 @@ We are looking for help in the following areas:
 Especially if you have a temperature or a new persistent cough.  If that is the case you should fully self isolate as per government guidelines [(link)](https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-advice/) and inform us so that we can inform others working in the space, quarantine any stock you worked on and notify recipients if necessary.
 
 
-## 🙏🏼 Please read this little guide carefully. Here’s what it contains: 
+## 🙏🏼 Please read this short guide carefully. Here’s what it contains: 
 
 * How we are preventing contamination
 * What to do when you arrive
@@ -22,7 +22,7 @@ Especially if you have a temperature or a new persistent cough.  If that is the 
 ---
 
 ## Preventing contamination in the space
-We have split the space into three zones. Those that don’t know the space will be introduced properly:
+We have split the space into three zones. Those that don’t know the space will be shown round:
 
 * *The Events room.* This is the area where contamination procedures are less strict. It’s where items brought into the space from outside can live. If you need to work on your laptop, this room is probably the best place for that.
 * *The area just inside the main door and the kitchen.* We want to minimise any risk of contamination in this area. People will need to use it to go to wash their hands.
