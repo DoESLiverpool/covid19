@@ -68,7 +68,7 @@ There are three main parts to the manufacturing process:
 `(technical role)`
 The current design is saved to the desktop in ECP format as `C:\Users\doesuser\DropBox\covid\hybrid-20_unified.ecp` – This file has all the cut settings, just open it up and cut.
 
-Sometimes the laser settings change. They should be: Power 70 and Speed 100.
+Sometimes the laser settings change. They should be: Power 70 and Speed 100. The settings are entered on the computer Lasercut software. The LCD screen on the laser cutter machine also shows Power and Speed but these can be ignored.
 
 This results in a cut time of about 20 minutes for 18 units, excluding loading and unloading.
 
