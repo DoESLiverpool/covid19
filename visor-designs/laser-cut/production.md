@@ -2,23 +2,42 @@
 We are looking for help in the following areas:
 
 1. Laser cutting headbands
-2. Cleaning headbands with IPA—anyone can do this. 
-3. Cutting face shields with scissors/hole punch—anyone can do this. 
+2. Cleaning headbands – anyone can do this. 
+3. Cutting face shields with scissors/hole punch – anyone can do this.
 
-⚠️ **PLEASE DO NOT ATTEND IF YOU ARE FEELING UNWELL** 
+---
+
+## How to get involved
+
+If you’re a newcomer looking to volunteer, stop reading this document, and [fill in this form instead](https://docs.google.com/forms/d/e/1FAIpQLSca6bWcUwvAfzfc2A-vNTZklxa5KxeChzk6gO2pMnESX3pfCg/viewform).
+
+Once you’ve submitted the form, we’ll be in touch with you, to organise a time for you to come in for your onboarding.
+
+If you are unable to travel or would prefer to work from home, email [covid@doesliverpool.com](mailto:covid@doesliverpool.com), and we’ll discuss tasks you can do from home.
+
+---
+
+The rest of this document explains how to do everything you’ll need to do as a volunteer, once you’ve [filled in our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSca6bWcUwvAfzfc2A-vNTZklxa5KxeChzk6gO2pMnESX3pfCg/viewform) and been onboarded as a new volunteer.
+
+---
+
+## Booking a production slot
+
+While we appreciate all help, it is important that we keep numbers in the space to a minimum.
+
+At your onboarding, we’ll show you how to block out the times you intend to be here, on our spreadsheet:
+
+[Production slots spreadsheet](https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/edit?usp=sharing)
+
+If your plans change after booking a slot, and you can no longer make it, please un-book your slot by removing your name from the spreadsheet.
+
+---
+
+## ⚠️ DO NOT ATTEND IF YOU ARE FEELING UNWELL
 
 Especially if you have a temperature or a new persistent cough.  If that is the case you should fully self isolate as per government guidelines [(link)](https://www.nhs.uk/conditions/coronavirus-covid-19/self-isolation-advice/) and inform us so that we can inform others working in the space, quarantine any stock you worked on and notify recipients if necessary.
 
 While making these masks is incredibly helpful to frontline staff we won’t be helping if we spread the infection.
-
-## 🙏🏼 Please read this short guide carefully. Here’s what it contains: 
-
-* How we are preventing contamination
-* What to do when you arrive
-* What roles there are
-* Where to find us & how you can get stuck in 😊
-* How to book a slot 
-* How to track the time you have volunteered
 
 ---
 
@@ -59,13 +78,12 @@ L3 8HL
 
 ## Roles
 There are three main parts to the manufacturing process:
-1. Laser cutting headbands `(technical role)`
-2. Cleaning headbands with IPA `(non-technical role)`
-3. Cutting face shields with scissors/hole punch  `(non-technical role)`
+1. Laser cutting headbands
+2. Cleaning headbands
+3. Cutting face shields with scissors/hole punch
 
 ### (1) Laser cutting headbands  
 
-`(technical role)`
 The current design is saved to the desktop in ECP format as `C:\Users\doesuser\DropBox\covid\hybrid-20_unified.ecp` – This file has all the cut settings, just open it up and cut.
 
 Sometimes the laser settings change. They should be: Power 70 and Speed 100. The settings are entered on the computer Lasercut software. The LCD screen on the laser cutter machine also shows Power and Speed but these can be ignored.
@@ -92,7 +110,6 @@ If there are any problems with the laser-cutter or it stops cutting properly, [r
 
 ### (2) Cleaning the headband parts  
 
-`(non-technical role)`
 This is done at the *Cleaning Station*, in the nook.
 
 Use the spray bottle to apply a little IPA to the stained areas and run clean with a sponge. This process is cosmetic rather than to sterilise at this stage.
@@ -101,8 +118,7 @@ Collect them together in sets of 20 and place them into a plastic bag labelled w
 
 Stack on the table in the back office (Room 29).
 
-### (3) Cutting the clear plastic face shields  
-`(non-technical role)`
+### (3) Cutting the clear plastic face shields
 
 The equipment and materials for this are arranged on the workshop benches.
 
@@ -119,33 +135,6 @@ Opposite the holes round off the corners with scissors.
 Pack in labelled bags with the date in quantities of 20 per bag.
 
 Once complete, stack bags on the table in the back office (Room 29).
-
----
-
-## How to get involved
-
-Our address is
-```
-DoES Liverpool
-1st Floor, The Tapestry
-68-76 Kempston Street
-Liverpool 
-L3 8HL
-```
-
-In order to get involved, email [covid@doesliverpool.com](mailto:covid@doesliverpool.com) to arrange a suitable time for someone to show you the different tasks and areas where they are completed, and for Jackie to arrange a temporary access fob for you.
-
-If you are unable to travel or would prefer to work from home, please do still email as we may be able to find a task you can do from home!
-
----
-
-## Booking a production slot
-
-Block out the times you intend to be here and the task you intend to help with on our spreadsheet here:
-
-[Production slots spreadsheet](https://docs.google.com/spreadsheets/d/1Nn2kCCu9TOgxJlUh01Y-L10jXJNEoijAkrV9hTZMpOo/edit?usp=sharing)
-
-While we appreciate all help, it is important that we keep numbers in the space to a minimum, so **PLEASE DO NOT COME IF YOU HAVE NOT BOOKED A SLOT**. Additionally, we need to have people in whenever possible, so **IF YOU CAN NO LONGER COME PLEASE REMOVE YOUR NAME FROM THE SPREADSHEET**.
 
 ---
 
