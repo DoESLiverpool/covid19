@@ -44,7 +44,7 @@ Labour is £9.30/hour.
 * £0.16 - 1 minute labour cleaning time
 * £0.36 - 1x [visor](#Visor)
 
-17 on one sheet of 1100x650mm polyprop, takes ~45 minutes to cut
+20 on one sheet of 1100x650mm polyprop (@ .72p /sheet), takes ~25 minutes to cut
 
 £1.34 each in total
 
