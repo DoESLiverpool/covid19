@@ -4,10 +4,6 @@ This directory is where I built the stacks for the DoES version of the Verkstan.
 
 I'm working on the premise of a 0.3mm layer height.
 
-Please contact me if you need different stack amounts at sean.tomlinson@lstmed.ac.uk if you are unable to modify the included Fusion360 file.
+Please contact me if you need different stack amounts at sean.tomlinson@lstmed.ac.uk
 
-Height of model: 5.029mm
-Spacing: 1 layer (0.3mm)
-Software used: Fusion360
-
-
+The original DoES Verkstan was 5.029mm tall, this has been modified to be 5.4mm so that it's a whole multiple of the 0.3mm layer height. For the stacks to work both the layer height and initial layer height need to be 0.3mm
