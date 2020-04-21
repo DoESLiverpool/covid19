@@ -84,11 +84,11 @@ There are three main parts to the manufacturing process:
 
 ### (1) Laser cutting headbands  
 
-The current design is saved to the desktop in ECP format as `C:\Users\doesuser\DropBox\covid\hybrid-20_unified.ecp` – This file has all the cut settings, just open it up and cut.
+The current design is saved to the desktop in ECP format as `C:\desktop\hybridV1_20.ecp` – This file has all the cut settings, just open it up and cut.
 
-Sometimes the laser settings change. They should be: Power 70 and Speed 100. The settings are entered on the computer Lasercut software. The LCD screen on the laser cutter machine also shows Power and Speed but these can be ignored.
+Sometimes the laser settings change. They should be: Speed 70 and Power 50 for cuts, Speed 70 and Power 20 for engraving. The settings are entered on the computer Lasercut software - do not change the settings. The LCD screen on the laser cutter machine also shows Power and Speed but these can be ignored.
 
-This results in a cut time of about 20 minutes for 18 units, excluding loading and unloading.
+This results in a cut time of about 20 minutes for 20 units, excluding loading and unloading.
 
 To speed up production, as soon as a sheet is cut, remove it and any left-over parts from the laser bed, replace a new sheet into the cutter, start cutting, and then, while the new sheet is cutting, you can take your time disconnecting parts from the old sheet.
 
