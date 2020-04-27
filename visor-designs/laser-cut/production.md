@@ -137,13 +137,3 @@ Pack in labelled bags with the date in quantities of 20 per bag.
 Once complete, stack bags on the table in the back office (Room 29).
 
 ---
-
-## Tracking time
-
-Each volunteer is responsible for tracking their own time.
-
-We’ve prepared a template worksheet to help you track your time: [https://docs.google.com/spreadsheets/d/17ZI_iGuMHm6O9xH-shOg0gg1-48pZvZWUcObXX5arqY/edit](https://docs.google.com/spreadsheets/d/17ZI_iGuMHm6O9xH-shOg0gg1-48pZvZWUcObXX5arqY/edit)
-
-Make a personal copy of the template worksheet, and then use that personal copy to track your time. Email a link to your personal worksheet to [covid@doesliverpool.com](covid@doesliverpool.com).
-
-Each time you are on shift, enter your start time / end time and number of items produced (keep a tally as you go along). We will use this worksheet for invoicing and payment control later, so it’s important you keep it up to date.
