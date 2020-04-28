@@ -6,6 +6,7 @@ This is John's redesign
 
 He's slicing with Slic3r on PLA with these settings which give strong prints
 
+```
 Shells: 5
 Solid Top: 4
 Solid Bottom:3
@@ -26,4 +27,4 @@ first layer speed: 50mm/s
 Temp 227 °C
 12:45
 Bed: 55°C
-
+```
