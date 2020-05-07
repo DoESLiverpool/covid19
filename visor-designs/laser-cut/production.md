@@ -84,15 +84,13 @@ There are three main parts to the manufacturing process:
 
 ### (1) Laser cutting headbands  
 
-The current design is saved to the desktop in ECP format as `C:\desktop\hybridV1_20.ecp` – This file has all the cut settings, just open it up and cut.
+The current design is saved to the desktop in ECP format as `C:\desktop\hybridV1_20.ecp` – This file has all the cut settings, just open it up and cut. Currently the LaserCut50.exe software in C:\LaserCut50 doesn't work. Please use the icon towards the right hand side of the desktop which will open the version in C:\LaserCut50 - Copy instead.
 
-Sometimes the laser settings change. They should be: Speed 70 and Power 50 for cuts, Speed 70 and Power 20 for engraving. The settings are entered on the computer Lasercut software - do not change the settings. The LCD screen on the laser cutter machine also shows Power and Speed but these can be ignored.
+Sometimes the laser settings change. They should be: Speed 65 and Power 50 for cuts, Speed 65 and Power 20 for engraving. The settings are entered on the computer Lasercut software - do not change the settings. The LCD screen on the laser cutter machine also shows Power and Speed but these can be ignore
 
 This results in a cut time of about 20 minutes for 20 units, excluding loading and unloading.
 
 To speed up production, as soon as a sheet is cut, remove it and any left-over parts from the laser bed, replace a new sheet into the cutter, start cutting, and then, while the new sheet is cutting, you can take your time disconnecting parts from the old sheet.
-
-After each sheet is cut, add a tick to a tally chart. Easiest thing is to do it on the whiteboard, as you'll see Alex tends to do.
 
 Sheets of fresh polypropylene are stored on top of Monty (the massive laser-cutter). More is available in the yard if stock needs to be replenished.
 
